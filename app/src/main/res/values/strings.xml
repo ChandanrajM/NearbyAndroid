@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Nearby</string>
+    <string name="app_tagline">Scan. Discover. Shop.</string>
+    <string name="delivery_to">Delivery to</string>
+    <string name="scan_shop_qr">Scan Shop QR</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="explore">Explore</string>
+    <string name="trending_today">Trending Today</string>
+    <string name="shops_near_you">Shops Near You</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="register_shop">Register Your Shop</string>
+    <string name="my_orders">My Orders</string>
+    <string name="profile">Profile</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="support">Support</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="cart">Cart</string>
+    <string name="no_shops_found">No shops found</string>
+    <string name="loading">Loading…</string>
+    <string name="browse_shops">Browse Shops</string>
+</resources>
